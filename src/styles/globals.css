@@ -1,0 +1,19 @@
+html {
+    height: 100vh;
+    margin: 0;
+    padding: 0;
+    overflow-y: hidden;
+}
+
+body {
+    height: 100vh;
+    font-family: sans-serif;
+
+    background-image: url("/app-background.png");
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+
+    backdrop-filter: blur(5px);
+}
+
