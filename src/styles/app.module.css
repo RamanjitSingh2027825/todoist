@@ -1,0 +1,9 @@
+.appContainer {
+    padding: 0;
+    overflow-y: hidden;
+    margin: 0 auto;
+    width: 65%;
+    height: 100vh;
+    background-color: #ffb2867c;
+    color: rgb(255, 255, 255);
+}
